@@ -19,10 +19,10 @@
 - PHP
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=C%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-ffd43b?style=for-the-badge&logo=Python)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-3776ab?style=for-the-badge&logo=C%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 
 ### Tools
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
