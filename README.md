@@ -1,6 +1,6 @@
 # Hey!
 ## 👨‍💼 About [me](https://github.com/Andy0n)
-//TODO
+CS student who loves software engineering and network administration.
 
 
 ## 👨‍💻 Programming
@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-ffd43b?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-3776ab?style=for-the-badge&logo=C%2B%2B)
-![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=C%20Sharp)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C%20Sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=HTML5)
@@ -27,9 +27,10 @@
 
 
 ### Tools
+[![Neovim](https://img.shields.io/badge/-Neovim-0A151B?style=for-the-badge&logo=Neovim)](https://neovim.io/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA%20-black?style=for-the-badge&logo=IntelliJ-IDEA)](https://www.jetbrains.com/idea/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=PyCharm)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA%20-C43286?style=for-the-badge&logo=IntelliJ-IDEA)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-38DA86?style=for-the-badge&logo=PyCharm)](https://www.jetbrains.com/pycharm/)
 
 
 ### Other technologies
